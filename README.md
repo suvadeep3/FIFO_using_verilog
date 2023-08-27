@@ -1,1 +1,1 @@
-# SYNCHRONOUS-FIFO
+# Designed a FIFO using Verilog  
